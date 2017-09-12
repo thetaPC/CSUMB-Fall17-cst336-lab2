@@ -2,7 +2,7 @@
 
     function play() {
         for ($i = 1; $i < 4; $i++) {
-            ${"randomValue" . $i } = rand(0,3);
+            ${"randomValue" . $i } = 0;
             displaySymbol(${"randomValue" . $i}, $i);
         }
         displayPoints($randomValue1, $randomValue2, $randomValue3);
