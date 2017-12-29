@@ -5,3 +5,5 @@
 ## CST 336
 
 ## Lab 2: Jackpot
+
+Slot Machine using PHP Control Structures
